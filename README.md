@@ -83,13 +83,6 @@ All data files and outputs will be generated automatically.
 * Data science and NLP research
 * Academic and professional portfolios
 
----
-
-## 👨‍💻 Author
-
-**Md. Naimul Islam**
-B.Sc. in Computer Science & Engineering
-American International University-Bangladesh (AIUB)
 
 ---
 
